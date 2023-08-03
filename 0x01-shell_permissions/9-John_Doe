@@ -1,2 +1,2 @@
-#!/bin/bas
-Chmod 753h
+#!/bin/bash
+Chmod 753
